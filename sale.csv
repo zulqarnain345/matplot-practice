@@ -1,0 +1,8 @@
+OrderID,Product,Category,Quantity,Price,Date
+101,Laptop,Electronics,2,1200,1/12/2024
+102,Headphones,Electronics,5,100,2/5/2024
+103,Shirt,Clothing,3,25,2/18/2024
+104,Shoes,Clothing,2,60,3/1/2024
+105,Book,Stationery,4,15,3/15/2024
+106,Mobile,Electronics,3,800,4/10/2024
+107,Pen,Stationery,10,2,4/20/2024

@@ -1,0 +1,11 @@
+Question ID,Question,Option A,Option B,Option C,Option D,Correct Answer
+1,What is the capital of France?,Paris,London,Berlin,Madrid,A
+2,What is 5 + 7?,10,11,12,13,C
+3,Who developed Python?,Dennis Ritchie,Guido van Rossum,James Gosling,Elon Musk,B
+4,Which planet is known as the Red Planet?,Venus,Mars,Jupiter,Saturn,B
+5,What is the largest ocean on Earth?,Indian Ocean,Pacific Ocean,Atlantic Ocean,Arctic Ocean,B
+6,Which data type is immutable in Python?,List,Dictionary,Tuple,Set,C
+7,What keyword is used to define a function in Python?,def,func,define,lambda,A
+8,Who painted the Mona Lisa?,Van Gogh,Picasso,Da Vinci,Michelangelo,C
+9,What gas do plants release during photosynthesis?,Oxygen,Carbon Dioxide,Nitrogen,Hydrogen,A
+10,What does CPU stand for?,Central Performance Unit,Central Processing Unit,Computer Power Unit,Core Processing Unit,B
